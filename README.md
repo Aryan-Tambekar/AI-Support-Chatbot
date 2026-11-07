@@ -27,7 +27,3 @@ The API runs on port 3001. For production: `npm run build && npm start`; the Exp
 **2 a.m. failure:** The message remains saved and its draft shows as failed with a retry action, so the agent can still see and handle it the next morning. I would find the cause through structured `logs/actions.jsonl`, provider response monitoring, and production error alerts keyed by event and conversation IDs.
 
 **Twenty brands:** I would add `brand_id` to every tenant-owned table and scope all auth and queries by membership before expanding functionality. I would also move policies to versioned per-brand records and use retrieval, because isolation and correct grounding become the primary risk.
-
-## Testing and limits
-
-`npm test` verifies invalid signatures, webhook persistence/idempotency, protected agent endpoints, approval, and customer-visible replies. `npm run build` verifies the frontend production bundle. The AI integration is real but requires a configured compatible key; tests deliberately exercise the safe failure path when one is absent. I used AI assistance to accelerate boilerplate and then corrected an initial customer-view state issue so generated customer IDs are returned by the ingestion result.
