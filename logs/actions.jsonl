@@ -1,0 +1,132 @@
+{"timestamp":"2026-11-06T10:09:06.451Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:11:02.930Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\test.db"}
+{"timestamp":"2026-11-06T10:11:03.040Z","component":"backend","action":"customer_message_saved","eventId":"evt_test_001","conversationId":1}
+{"timestamp":"2026-11-06T10:11:03.048Z","component":"ai","action":"draft_failed","eventId":"evt_test_001","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:11:03.099Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:11:03.144Z","component":"backend","action":"draft_approved","draftId":1}
+{"timestamp":"2026-11-06T10:11:27.496Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:12:01.091Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:12:52.747Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:13:07.024Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\test.db"}
+{"timestamp":"2026-11-06T10:13:07.118Z","component":"backend","action":"customer_message_saved","eventId":"evt_test_001","conversationId":1}
+{"timestamp":"2026-11-06T10:13:07.125Z","component":"ai","action":"draft_failed","eventId":"evt_test_001","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:13:07.157Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:13:07.238Z","component":"backend","action":"draft_approved","draftId":1}
+{"timestamp":"2026-11-06T10:32:39.204Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:32:39.211Z","component":"backend","action":"server_started","port":3001}
+{"timestamp":"2026-11-06T10:32:54.436Z","component":"backend","action":"customer_message_saved","eventId":"8ed75897-c41a-4e59-bda7-637c49866b5a","conversationId":1}
+{"timestamp":"2026-11-06T10:32:54.443Z","component":"ai","action":"draft_failed","eventId":"8ed75897-c41a-4e59-bda7-637c49866b5a","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:33:01.743Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:33:46.092Z","component":"backend","action":"customer_message_saved","eventId":"6c8fa333-b1f1-4c17-9f29-400902bbb239","conversationId":1}
+{"timestamp":"2026-11-06T10:33:46.097Z","component":"ai","action":"draft_failed","eventId":"6c8fa333-b1f1-4c17-9f29-400902bbb239","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:34:12.421Z","component":"backend","action":"customer_message_saved","eventId":"51a15b0e-7b5c-451b-8991-3d358b32e4aa","conversationId":1}
+{"timestamp":"2026-11-06T10:34:12.427Z","component":"ai","action":"draft_failed","eventId":"51a15b0e-7b5c-451b-8991-3d358b32e4aa","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:36:28.236Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:36:28.245Z","component":"backend","action":"server_started","port":3001}
+{"timestamp":"2026-11-06T10:36:43.896Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\test.db"}
+{"timestamp":"2026-11-06T10:36:44.196Z","component":"backend","action":"customer_message_saved","eventId":"evt_test_001","conversationId":1}
+{"timestamp":"2026-11-06T10:36:44.231Z","component":"ai","action":"draft_failed","eventId":"evt_test_001","error":"AI is not configured. Set GEMINI_API_KEY and retry this draft."}
+{"timestamp":"2026-11-06T10:36:44.274Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:36:44.415Z","component":"backend","action":"draft_approved","draftId":1}
+{"timestamp":"2026-11-06T10:37:34.891Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:37:34.901Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T10:37:52.328Z","component":"backend","action":"customer_message_saved","eventId":"9d730552-8312-436c-88db-8fcc5b75df7e","conversationId":1}
+{"timestamp":"2026-11-06T10:37:55.038Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":25}
+{"timestamp":"2026-11-06T10:38:13.750Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:39:19.881Z","component":"backend","action":"draft_approved","draftId":4}
+{"timestamp":"2026-11-06T10:43:18.168Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:43:18.200Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T10:43:38.462Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:43:38.476Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T10:43:43.927Z","component":"backend","action":"customer_message_saved","eventId":"dbf63d16-76de-4984-af56-e04dc86084ff","conversationId":1}
+{"timestamp":"2026-11-06T10:43:45.358Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":156}
+{"timestamp":"2026-11-06T10:45:40.890Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:45:40.904Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T10:45:46.108Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T10:45:46.123Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T10:45:53.661Z","component":"backend","action":"customer_message_saved","eventId":"57065574-7a95-4f07-8a54-5e389853c0b6","conversationId":1}
+{"timestamp":"2026-11-06T10:45:55.212Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":202}
+{"timestamp":"2026-11-06T10:47:00.200Z","component":"backend","action":"draft_approved","draftId":6}
+{"timestamp":"2026-11-06T10:47:08.197Z","component":"backend","action":"customer_message_saved","eventId":"e72de47e-5a3b-424b-bfff-b23644ba8302","conversationId":1}
+{"timestamp":"2026-11-06T10:47:09.552Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":169}
+{"timestamp":"2026-11-06T10:47:56.980Z","component":"backend","action":"draft_approved","draftId":7}
+{"timestamp":"2026-11-06T10:48:15.335Z","component":"backend","action":"customer_message_saved","eventId":"c33e9c5c-1b50-43e1-b9b0-ccacd2f8d15c","conversationId":1}
+{"timestamp":"2026-11-06T10:48:16.531Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":137}
+{"timestamp":"2026-11-06T10:48:51.929Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T10:49:18.778Z","component":"backend","action":"customer_message_saved","eventId":"3b97ef69-74a5-4476-a403-2ccda8fe40a8","conversationId":1}
+{"timestamp":"2026-11-06T10:49:19.954Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":156}
+{"timestamp":"2026-11-06T10:49:35.464Z","component":"backend","action":"draft_approved","draftId":9}
+{"timestamp":"2026-11-06T10:49:40.198Z","component":"backend","action":"customer_message_saved","eventId":"1cfe4d68-a09d-406b-8f92-725751987231","conversationId":1}
+{"timestamp":"2026-11-06T10:49:41.585Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":39}
+{"timestamp":"2026-11-06T10:50:01.450Z","component":"backend","action":"draft_approved","draftId":10}
+{"timestamp":"2026-11-06T11:03:43.780Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:03:43.792Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:03:44.508Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:03:44.518Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:03:51.041Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:03:51.057Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:03:58.959Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\test.db"}
+{"timestamp":"2026-11-06T11:03:59.066Z","component":"backend","action":"customer_message_saved","eventId":"evt_test_001","conversationId":1}
+{"timestamp":"2026-11-06T11:03:59.213Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T11:03:59.265Z","component":"backend","action":"draft_approved","draftId":1}
+{"timestamp":"2026-11-06T11:04:00.753Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":173}
+{"timestamp":"2026-11-06T11:05:03.318Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:05:03.327Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:05:11.433Z","component":"backend","action":"customer_message_saved","eventId":"7bf1ba3e-b483-4512-b168-f0c4a1f098f4","conversationId":1}
+{"timestamp":"2026-11-06T11:05:12.810Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":202}
+{"timestamp":"2026-11-06T11:05:45.044Z","component":"backend","action":"customer_message_saved","eventId":"5af520e4-307b-4fe8-9b9f-3ffe707a85d5","conversationId":1}
+{"timestamp":"2026-11-06T11:05:46.151Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":80}
+{"timestamp":"2026-11-06T11:08:18.897Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:08:18.911Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:08:28.622Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:08:28.634Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:16:21.858Z","component":"backend","action":"customer_message_saved","eventId":"08e421e2-ae94-4e8f-8fc2-1b6f706f9ec1","conversationId":1}
+{"timestamp":"2026-11-06T11:16:23.402Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":114}
+{"timestamp":"2026-11-06T11:16:47.378Z","component":"backend","action":"draft_approved","draftId":13}
+{"timestamp":"2026-11-06T11:20:34.794Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:20:34.810Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:21:12.843Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:21:12.862Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:21:17.994Z","component":"backend","action":"customer_message_saved","eventId":"1fa12bf9-4760-4c33-9338-1b68d98a11cc","conversationId":2}
+{"timestamp":"2026-11-06T11:21:19.630Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":202}
+{"timestamp":"2026-11-06T11:22:13.164Z","component":"backend","action":"customer_message_saved","eventId":"a7ebb70f-f7f9-4c2e-8977-9e8c5937ca97","conversationId":3}
+{"timestamp":"2026-11-06T11:22:14.066Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":32}
+{"timestamp":"2026-11-06T11:25:16.733Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:25:16.743Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T11:25:21.850Z","component":"backend","action":"customer_message_saved","eventId":"631817fc-f3cb-478b-a70a-58152c1f00c1","conversationId":4}
+{"timestamp":"2026-11-06T11:25:23.377Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":202}
+{"timestamp":"2026-11-06T11:26:05.857Z","component":"backend","action":"customer_message_saved","eventId":"3554ff5c-54cf-4d22-8d9a-4d92827aaeb2","conversationId":5}
+{"timestamp":"2026-11-06T11:26:06.900Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":32}
+{"timestamp":"2026-11-06T11:26:27.997Z","component":"backend","action":"customer_message_saved","eventId":"09986984-011c-4b35-a7ea-8209f3154107","conversationId":4}
+{"timestamp":"2026-11-06T11:26:29.250Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":62}
+{"timestamp":"2026-11-06T11:37:18.944Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T11:37:18.959Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T16:28:01.432Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T16:28:01.447Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T16:28:02.094Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T16:28:02.108Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T16:28:13.301Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T16:28:13.894Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T16:28:13.902Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T16:28:22.550Z","component":"backend","action":"draft_approved","draftId":16}
+{"timestamp":"2026-11-06T16:28:56.566Z","component":"backend","action":"draft_approved","draftId":18}
+{"timestamp":"2026-11-06T16:33:20.679Z","component":"backend","action":"draft_approved","draftId":17}
+{"timestamp":"2026-11-06T16:36:28.062Z","component":"backend","action":"customer_message_saved","eventId":"eb2b7c07-8bba-424c-bdca-c351442e642d","conversationId":4}
+{"timestamp":"2026-11-06T16:36:30.201Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":188}
+{"timestamp":"2026-11-06T17:14:40.792Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T17:14:40.806Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T17:14:47.332Z","component":"backend","action":"customer_message_saved","eventId":"evt_postman_001","conversationId":6}
+{"timestamp":"2026-11-06T17:14:48.986Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":169}
+{"timestamp":"2026-11-06T17:23:08.049Z","component":"backend","action":"customer_message_saved","eventId":"evt_postman_002","conversationId":6}
+{"timestamp":"2026-11-06T17:23:09.445Z","component":"ai","action":"gemini_draft_generated","model":"gemini-2.5-flash","length":59}
+{"timestamp":"2026-11-06T17:53:20.107Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T17:53:20.206Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T17:53:22.306Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T17:53:22.328Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T17:53:41.899Z","component":"backend","action":"agent_login","email":"agent@verdant.co"}
+{"timestamp":"2026-11-06T17:53:43.715Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T17:53:43.731Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T19:12:59.265Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T19:12:59.293Z","component":"backend","action":"server_started","port":"3001"}
+{"timestamp":"2026-11-06T19:13:00.105Z","component":"database","action":"schema_initialized","database":"C:\\Users\\ASUS\\Desktop\\AI Chatbot\\data\\verdant.db"}
+{"timestamp":"2026-11-06T19:13:00.121Z","component":"backend","action":"server_started","port":"3001"}
