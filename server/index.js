@@ -250,9 +250,15 @@ function serveClientApplication() {
 
 function startServer() {
   if (process.env.NODE_ENV === 'test') return;
-  recoverPendingDrafts();
+
   const port = process.env.PORT || 3001;
-  app.listen(port, () => audit('backend', 'server_started', { port }));
+
+  app.listen(port, '0.0.0.0', () => {
+    audit('backend', 'server_started', {
+      port,
+      environment: process.env.NODE_ENV
+    });
+  });
 }
 
 function recoverPendingDrafts() {
