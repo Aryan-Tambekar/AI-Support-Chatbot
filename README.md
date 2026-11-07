@@ -18,10 +18,9 @@ The API runs on port 3001. For production: `npm run build && npm start`; the Exp
 - `POST /api/customer/messages` and `GET /api/customer/:customerId/conversation`: Customer test view APIs.
 
 ## Decisions and trade-offs
+1. Main decisions and time constraints: I prioritized implementing the core functionality, authentication, and webhook security. I chose SQLite instead of PostgreSQL due to time constraints, as it was quicker to configure and integrate.
 
-React/Vite and Express are simple, fast to review, and share one deployment boundary. SQLite is a relational database and provides reliable local persistence; PostgreSQL is the first deployment swap for concurrent workers. The knowledge base is small, so it is included directly in the LLM system context. At larger KB sizes I would retrieve ranked policy chunks with embeddings, carry citations, and evaluate grounding.
-
-Each external event ID is idempotent, webhook signatures use constant-time comparison, and inputs are size-validated. Every meaningful backend, database, and AI event is appended to `logs/actions.jsonl`. AI failures do not lose the message: the agent sees a failed draft and can retry after configuration/service recovery. Authentication is intentionally demo-level (environment account + JWT); production would use password hashing/SSO, HTTPS, rate limiting, secret rotation, and tenant scoping.
+2. AI usage and limitations: AI helped me accelerate development, debug issues. However, it sometimes produced generic code such as the API was waiting for AI response before completing delaying the process so I changed it to as now the AI response works in background and API dosen't have to wait.
 
 ## Required assessment answers
 
